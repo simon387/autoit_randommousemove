@@ -4,5 +4,5 @@ While True
 
     MouseMove($randomX, $randomY, 50)
 
-    Sleep(5000) ; 5000 milliseconds = 5 seconds
+    Sleep(15000)
 WEnd
